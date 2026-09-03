@@ -1,0 +1,56 @@
+about:
+  description: AniDB UDP API client written in Python
+  license: MIT
+  homepage: 
+  head: f2c19ae
+  archived: false
+  latestVersion: 1.22
+  collectedAt: 2026-09-03T04:53:12Z
+timeline:
+  created: 2017-12-13
+  lastCommit: 2026-09-01
+  lastRelease: 2018-02-09
+popularity:
+  star: 38
+  watcher: 5
+  fork: 12
+  release: 2
+  contributor: 6
+  pullRequest: 2
+  issue: 20
+language:
+  Python: 35764
+totalLine: 35764
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 1
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 4
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 1
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 4
+  last180d:
+    since: 2026-03-07
+    release: 0
+    mergedPR: 1
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 4
+  last360d:
+    since: 2025-09-08
+    release: 0
+    mergedPR: 1
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 4
