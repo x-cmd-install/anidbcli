@@ -7,7 +7,7 @@ about:
   latestVersion: "1.22"
   latestRelease: "1.22"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:23:08Z
+  collectedAt: 2026-09-10T17:01:50Z
 timeline:
   created: 2017-12-13
   lastCommit: 2026-09-01
@@ -83,7 +83,7 @@ total:
   commit: 91
 ---
 path: /home/runner/.x-repo/github.com/adameste/anidbcli
-collectedAt: 2026-09-10T05:23:09Z
+collectedAt: 2026-09-10T17:01:50Z
 loc:
   Python:
     code: 816
