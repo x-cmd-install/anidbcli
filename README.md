@@ -1,24 +1,73 @@
 # anidbcli
 
+[中文版本](./README.cn.md)
+
 AniDB UDP API client written in Python
 
-- **Upstream**: <https://github.com/adameste/anidbcli>
-- **Homepage**: <>
-- **Latest release**: `1.22` (2018-02-09)
-- **Last commit**: 2026-09-01
-- **License**: MIT
-- **Stars**: 37 · **Forks**: 12 · **Open issues**: 20 · **Contributors**: 6
+![anidbcli](https://repo.x-cmd.io/anidbcli.svg)
 
-## Installation
+## Install
 
 ```sh
 x install anidbcli
 ```
 
-See <https://x-cmd.com/install/anidbcli> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/adameste/anidbcli>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:32:41Z._
+- **Latest**: `1.22` (2018-02-09)
+- **Last commit**: 2026-09-01
+- **Published**: 2018-02-09T17:52:34Z
+
+## Popularity
+
+- **Stars**: 37 · **Forks**: 12 · **Open issues**: 20 · **Contributors**: 6
+
+## Totals (cumulative)
+
+- **Releases**: 2 · **Merged PRs**: 7 · **Open PRs**: 1 · **Closed issues**: 15 · **Open issues**: 5 · **Commits**: 91
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 1 | 1 | 0 | 0 | 4 |
+| 90d | 2026-06-12 | 0 | 1 | 1 | 0 | 0 | 4 |
+| 360d | 2025-09-15 | 0 | 1 | 1 | 0 | 0 | 4 |
+
+## Code size
+
+Total: **1,068** lines of code across **22** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 816 | 103 | 131 | 13 |
+| ReStructuredText | 212 | 0 | 92 | 6 |
+| Batch | 27 | 1 | 8 | 1 |
+| Makefile | 10 | 6 | 4 | 1 |
+| Autoconf | 3 | 0 | 0 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.2 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 6/18 approved changesets -- score normalized to 3
+- **Dangerous-Workflow** (-1/10) — no workflows found
+
+## Improve this data
+
+Install metadata for anidbcli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `anidbcli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/anidbcli.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:23:13Z._
