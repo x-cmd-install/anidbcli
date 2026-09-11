@@ -12,6 +12,28 @@ AniDB UDP API client written in Python
 x install anidbcli
 ```
 
+## Code insight
+
+Total: **1,068** lines of code across **22** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 816 | 103 | 131 | 13 |
+| ReStructuredText | 212 | 0 | 92 | 6 |
+| Batch | 27 | 1 | 8 | 1 |
+| Makefile | 10 | 6 | 4 | 1 |
+| Autoconf | 3 | 0 | 0 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.2 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 6/18 approved changesets -- score normalized to 3
+- **Dangerous-Workflow** (-1/10) — no workflows found
+
 ## Source
 
 - **Upstream**: <https://github.com/adameste/anidbcli>
@@ -34,31 +56,12 @@ x install anidbcli
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 1 | 0 | 0 | 4 |
-| 90d | 2026-06-12 | 0 | 1 | 1 | 0 | 0 | 4 |
-| 360d | 2025-09-15 | 0 | 1 | 1 | 0 | 0 | 4 |
-
-## Code size
-
-Total: **1,068** lines of code across **22** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 816 | 103 | 131 | 13 |
-| ReStructuredText | 212 | 0 | 92 | 6 |
-| Batch | 27 | 1 | 8 | 1 |
-| Makefile | 10 | 6 | 4 | 1 |
-| Autoconf | 3 | 0 | 0 | 1 |
-
-## OpenSSF Scorecard
-
-Overall score: **3.2 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (3/10) — Found 6/18 approved changesets -- score normalized to 3
-- **Dangerous-Workflow** (-1/10) — no workflows found
+| 30d | 2026-08-12 | 0 | 1 | 1 | 0 | 0 | 4 |
+| last60d | 2026-07-13 | 0 | 1 | 1 | 0 | 0 | 4 |
+| 90d | 2026-06-13 | 0 | 1 | 1 | 0 | 0 | 4 |
+| last180d | 2026-03-15 | 0 | 1 | 1 | 0 | 0 | 4 |
+| 360d | 2025-09-16 | 0 | 1 | 1 | 0 | 0 | 4 |
+| last720d | 2024-09-21 | 0 | 1 | 1 | 0 | 0 | 6 |
 
 ## Improve this data
 
@@ -69,4 +72,4 @@ Install metadata for anidbcli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:01:54Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:11:12Z._

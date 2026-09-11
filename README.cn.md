@@ -12,6 +12,28 @@ AniDB UDP API client written in Python
 x install anidbcli
 ```
 
+## 代码洞察
+
+合计: **1,068** 行代码（覆盖前 5 种语言、共 **22** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 816 | 103 | 131 | 13 |
+| ReStructuredText | 212 | 0 | 92 | 6 |
+| Batch | 27 | 1 | 8 | 1 |
+| Makefile | 10 | 6 | 4 | 1 |
+| Autoconf | 3 | 0 | 0 | 1 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **3.2 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 6/18 approved changesets -- score normalized to 3
+- **Dangerous-Workflow** (-1/10) — no workflows found
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/adameste/anidbcli>
@@ -34,31 +56,12 @@ x install anidbcli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 1 | 0 | 0 | 4 |
-| 90d | 2026-06-12 | 0 | 1 | 1 | 0 | 0 | 4 |
-| 360d | 2025-09-15 | 0 | 1 | 1 | 0 | 0 | 4 |
-
-## 代码规模
-
-合计: **1,068** 行代码（覆盖前 5 种语言、共 **22** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 816 | 103 | 131 | 13 |
-| ReStructuredText | 212 | 0 | 92 | 6 |
-| Batch | 27 | 1 | 8 | 1 |
-| Makefile | 10 | 6 | 4 | 1 |
-| Autoconf | 3 | 0 | 0 | 1 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **3.2 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (3/10) — Found 6/18 approved changesets -- score normalized to 3
-- **Dangerous-Workflow** (-1/10) — no workflows found
+| 30d | 2026-08-12 | 0 | 1 | 1 | 0 | 0 | 4 |
+| last60d | 2026-07-13 | 0 | 1 | 1 | 0 | 0 | 4 |
+| 90d | 2026-06-13 | 0 | 1 | 1 | 0 | 0 | 4 |
+| last180d | 2026-03-15 | 0 | 1 | 1 | 0 | 0 | 4 |
+| 360d | 2025-09-16 | 0 | 1 | 1 | 0 | 0 | 4 |
+| last720d | 2024-09-21 | 0 | 1 | 1 | 0 | 0 | 6 |
 
 ## 改进这些数据
 
@@ -69,4 +72,4 @@ anidbcli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T17:01:54Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:11:12Z._
